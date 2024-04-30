@@ -91,7 +91,7 @@ export default function PredictAndWin() {
 
       {currentTab ==='sslc' && <SslcClass/>}
 
-      {currentTab === 'plustwo' && <PlustwoClass/>}
+      {/* {currentTab === 'plustwo' && <PlustwoClass/>} */}
 
 
     </Container>
